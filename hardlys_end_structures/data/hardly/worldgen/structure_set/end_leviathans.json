@@ -1,0 +1,16 @@
+{
+  "structures": [
+    {
+      "structure": "hardly:end_leviathan",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1708627449,
+    "type": "minecraft:concentric_rings",
+    "distance": 6,
+    "count": 512,
+    "preferred_biomes": "#minecraft:is_end",
+    "spread": 1
+  }
+}
