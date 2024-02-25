@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "hardly:end_island",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1708705542,
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 24
+  }
+}
+
