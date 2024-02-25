@@ -5,6 +5,15 @@
       "weight": 1,
       "element": {
         "element_type": "minecraft:legacy_single_pool_element",
+        "location": "hardly:end_islands/sculkship",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
         "location": "hardly:end_islands/island1",
         "projection": "rigid",
         "processors": "minecraft:empty"
