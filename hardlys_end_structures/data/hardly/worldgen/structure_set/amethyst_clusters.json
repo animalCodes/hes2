@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "hardly:amethyst_cluster",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1708968556,
+    "type": "minecraft:random_spread",
+    "spacing": 32,
+    "separation": 24
+  }
+}
+
