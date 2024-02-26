@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "hardly:void_tendril",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1708965668,
+    "type": "minecraft:random_spread",
+    "spacing": 12,
+    "separation": 8
+  }
+}
+
