@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "hardly:shadow_crystal",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "salt": 1708987254,
+    "type": "minecraft:random_spread",
+    "spacing": 16,
+    "separation": 8
+  }
+}
+
